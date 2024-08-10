@@ -36,7 +36,7 @@ Step 5: Check the latest news related to the stock for a well-rounded analysis.
 
 
 *Installation Instructions:
-Clone the repository: git clone https://github.com/yourusername/yourrepository.git
+Clone the repository: git clone https://github.com/SoorajVaidya/Stockmarket_project.git
 Install the required dependencies: pip install -r requirements.txt
 Run the Streamlit application: streamlit run app.py
 
